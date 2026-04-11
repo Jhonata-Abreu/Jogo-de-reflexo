@@ -1,0 +1,1 @@
+este projeto vai conter um jogo em que o usuário interage com imagens na tela, onde a imagem que acender deverá ser clicada antes de apagar. Com isso é acumulado pontos em um período de 30 segundos.
